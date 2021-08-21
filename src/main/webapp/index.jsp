@@ -4,14 +4,6 @@
 <h2>Holaa mundo jsjjsjjrersjsjga</h2>
 <h3>amigaSsskk! amigooss jajajajaja
 hola daniel !
-
-heyyyyyyy ddddddsdffdf
-    rdrrdtdtrsd
-
-holaaaaaaa
-fsdfdfsd
-jejejjeje
-dhhhhgdhdhdh
-tdtrttret</h3>
+</h3>
 </body>
 </html>
